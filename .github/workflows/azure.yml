@@ -6,8 +6,8 @@ on:
       - main
 
 env:
-    IMAGE_NAME: 'retail-copilot-be'
-    CONTAINER_APP : 'capp-retail-copilot-be'
+    IMAGE_NAME: 'retail-copilot-fe'
+    CONTAINER_APP : 'retail-copilot'
 
 jobs:
     publish:
